@@ -1,0 +1,11 @@
+const products = [{ "id": 1, "name": "Shoes", "desc": "Unsp retained (old) intraocular fb, magnetic, left eye", "price": "$4.96", "image": "https://res.cloudinary.com/dkwayhkmv/image/upload/v1687163779/cld-sample-5.jpg" },
+{ "id": 2, "name": "Bag Leather", "desc": "Minor lacerat great saph at hip and thi lev, unsp leg, subs", "price": "$7.92", "image": "https://res.cloudinary.com/dkwayhkmv/image/upload/v1687163765/samples/ecommerce/leather-bag-gray.jpg" },
+{ "id": 3, "name": "Nike Shoes", "desc": "Dislocation of MTP joint of left great toe, sequela", "price": "$4.90", "image": "https://res.cloudinary.com/dkwayhkmv/image/upload/v1687163760/samples/ecommerce/shoes.png" },
+{ "id": 4, "name": "Watch", "desc": "Displaced comminuted fracture of shaft of unsp tibia, init", "price": "$1.65", "image": "https://res.cloudinary.com/dkwayhkmv/image/upload/v1687163755/samples/ecommerce/analog-classic.jpg" },
+{ "id": 5, "name": "Timi", "desc": "Bent bone of l ulna, 7thF", "price": "$1.34", "image": "https://res.cloudinary.com/dkwayhkmv/image/upload/v1687163765/samples/ecommerce/accessories-bag.jpg" },
+{ "id": 6, "name": "Kristan", "desc": "Other Hodgkin lymphoma, spleen", "price": "$0.44", "image": "https://res.cloudinary.com/dkwayhkmv/image/upload/v1687163766/samples/food/spices.jpg" },
+{ "id": 7, "name": "Ruby", "desc": "Legal intervnt involving manhandling, suspect injured, init", "price": "$5.74", "image": "https://res.cloudinary.com/dkwayhkmv/image/upload/v1687163758/samples/food/pot-mussels.jpg" },
+{ "id": 8, "name": "Travers", "desc": "Glare sensitivity", "price": "$3.18", "image": "https://res.cloudinary.com/dkwayhkmv/video/upload/v1687163770/samples/sea-turtle.jpg" },
+{ "id": 9, "name": "Shelbi", "desc": "Corros unsp deg of unsp site left low limb, ex ank/ft, subs", "price": "$5.65", "image": "https://res.cloudinary.com/dkwayhkmv/image/upload/v1687163777/cld-sample.jpg" },
+{ "id": 10, "name": "Cale", "desc": "Drowning and submersion due to sailboat sinking, init encntr", "price": "$5.50", "image": "https://res.cloudinary.com/dkwayhkmv/image/upload/v1687163763/samples/landscapes/beach-boat.jpg" }]
+module.exports = products;
